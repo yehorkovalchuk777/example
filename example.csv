@@ -1,4 +1,4 @@
-device,value_type,value,unit
-Device1,ValueType1,Value1,Unit1
-Device2,ValueType2,Value2,Unit2
-Device2,ValueType2,Value2,Unit3
+timestamp,device,value_type,value,unit
+2023-08-18T07:28:59.343Z,Device1,ValueType1,Value1,Unit1
+2023-08-18T07:28:59.343Z,Device2,ValueType2,Value2,Unit2
+2023-08-18T07:28:59.343Z,Device3,ValueType3,Value3,Unit2
