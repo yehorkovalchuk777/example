@@ -1,4 +1,4 @@
-timestamp,device,value_type,value,unit
-2023-08-18T07:28:59.343Z,Device1,ValueType1,Value1,Unit1
-2023-08-18T07:28:59.343Z,Device2,ValueType2,Value2,Unit2
-2023-08-18T07:28:59.343Z,Device3,ValueType3,Value3,Unit2
+LASER DEVICE 9000,77SY2D7,LaserTemperature,°C,REAL,2025-02-26T07:29:30.515Z,80.0,false,"{""start"":10,""length"":50,""lineNumber"":1,""fileName"":""LASER_DEVICE_9000_20250801.log""}"
+LASER DEVICE 9000,77SY2D7,LaserOffset,mm,INTEGER,2025-02-26T07:29:30.515Z,5,false,"{""start"":10,""length"":50,""lineNumber"":1,""fileName"":""LASER_DEVICE_9000_20250801.log""}"
+LASER DEVICE 9000,77SY2D7,LaserPower,W,INTEGER,2025-02-26T07:29:30.515Z,1200,false,"{""start"":10,""length"":50,""lineNumber"":1,""fileName"":""LASER_DEVICE_9000_20250801.log""}"
+LASER DEVICE 9000,77SY2D7,LaserMessage,,STRING,2025-02-26T07:29:30.515Z,The laser has started,false,"{""start"":10,""length"":50,""lineNumber"":1,""fileName"":""LASER_DEVICE_9000_20250801.log""}"
